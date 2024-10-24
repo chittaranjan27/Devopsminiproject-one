@@ -3,7 +3,7 @@ from selenium import webdriver
 import time
 
 # Set up the Chrome WebDriver
-driver = webdriver.Chrome()  # Ensure you have ChromeDriver installed
+ driver = webdriver.Chrome()  # Ensure you have ChromeDriver installed
 
 try:
     # Test Home Page
